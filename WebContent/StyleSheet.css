@@ -1,0 +1,278 @@
+@CHARSET "ISO-8859-1";
+@CHARSET "ISO-8859-1";
+
+.box1 {
+	position:fixed;
+    right:115;
+
+}
+.box2 {
+	position:fixed;
+	bottom:150;
+	right:400;
+}
+.box3 {
+	position:fixed;
+	bottom:250;
+	right:500;
+}
+.box4 {
+	position:fixed;
+	bottom:250;
+	right:400;
+}
+.box5 {
+	position:fixed;
+	bottom:225;
+	right:500;
+}
+.box6 {
+	position:fixed;
+	bottom:225;
+	right:400;
+}
+.box7 {
+	position:fixed;
+	bottom:125;
+	right:500;
+}
+.imageposition {
+    position:absolute;
+    top:0;
+    left:0;
+}
+.loginposition {
+    position:absolute;
+    bottom:100;
+    right:100;
+    border:none;
+}
+.applicationposition {
+    border:none;
+}
+input[type=text] {
+    background-color: #F5F79B;
+    color: black;
+}
+input[type=password] {
+    background-color: #F5F79B;
+    color: black;
+}
+.noborder {
+    border:none !important;
+}
+.messageBox {
+    color: red;
+    margin: 10px;
+    padding: 10px;
+    font-size: 14px;
+    position:fixed; 
+    bottom:150;
+    right:260;
+}
+.Legend1{
+	position:fixed;
+	font-size: 16px;
+    bottom:400;
+    right:600;
+}
+.firstname1 {
+    position:fixed;
+    bottom:375;
+    right:600;
+}
+.firstname2 {
+    position:fixed;
+    bottom:375;
+    right:400;
+}
+.firstname3 {
+	color: red;
+    position:fixed;
+    bottom:375;
+    right:200;
+}
+.firstname4 {
+	color: red;
+    position:fixed;
+    bottom:375;
+    right:185;
+}
+.middlename1 {
+    position:fixed;
+    bottom:350;
+    right:600;
+}
+.middlename2 {
+    position:fixed;
+    bottom:350;
+    right:400;
+}
+.middlename3 {
+	color: red;
+    position:fixed;
+    bottom:350;
+    right:210;
+}
+.lastname1 {
+    position:fixed;
+    bottom:325;
+    right:600;
+}
+.lastname2 {
+    position:fixed;
+    bottom:325;
+    right:400;
+}
+.lastname3 {
+	color: red;
+    position:fixed;
+    bottom:325;
+    right:200;
+}
+.lastname4 {
+	color: red;
+    position:fixed;
+    bottom:325;
+    right:170;
+}
+.address1 {
+    position:fixed;
+    bottom:300;
+    right:600;
+}
+.address2 {
+    position:fixed;
+    bottom:300;
+    right:400;
+}
+.address3 {
+	color: red;
+    position:fixed;
+    bottom:300;
+    right:215;
+}
+.addressline1 {
+    position:fixed;
+    bottom:275;
+    right:600;
+}
+.addressline2 {
+    position:fixed;
+    bottom:275;
+    right:400;
+}
+.city1 {
+    position:fixed;
+    bottom:250;
+    right:600;
+}
+.city2 {
+    position:fixed;
+    bottom:250;
+    right:400;
+}
+.city3 {
+	color: red;
+    position:fixed;
+    bottom:250;
+    right:240;
+}
+.city4 {
+	color: red;
+    position:fixed;
+    bottom:275;
+    right:237;
+}
+.state1 {
+    position:fixed;
+    bottom:225;
+    right:600;
+}
+.state2 {
+    position:fixed;
+    bottom:225;
+    right:400;
+}
+.state3 {
+	color: red;
+    position:fixed;
+    bottom:225;
+    right:235;
+}
+.zipcode1 {
+    position:fixed;
+    bottom:200;
+    right:600;
+}
+.zipcode2 {
+    position:fixed;
+    bottom:200;
+    right:500;
+}
+.zipcode3 {
+	color: red;
+    position:fixed;
+    bottom:175;
+    right:150;
+}
+.yesbutton1 {
+    position:fixed;
+    bottom:325;
+    right:575;
+}
+.yesbuttonvalue1 {
+    position:fixed;
+    bottom:325;
+    right:550;
+}
+.nobutton1 {
+    position:fixed;
+    bottom:325;
+    right:500;
+}
+.nobuttonvalue1 {
+    position:fixed;
+    bottom:325;
+    right:475;
+}
+.confirmmsg1{
+	position:fixed;
+	font-size: 16px;
+    bottom:200;
+    right:250;
+}
+.confirmmsg2{
+	position:fixed;
+	font-size: 16px;
+    bottom:200;
+    right:175;
+}
+.confirmmsg3{
+	position:fixed;
+	font-size: 16px;
+    bottom:175;
+    right:278;
+}
+.confirmmsg4{
+	position:fixed;
+	font-size: 16px;
+    bottom:175;
+    right:175;
+}
+.Legend2{
+	position:fixed;
+	font-size: 16px;
+	border:none;
+    bottom:225;
+    right:580;
+}
+.messageBox2 {
+    color: red;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    position:fixed; 
+    bottom:150;
+    right:260;
+}
